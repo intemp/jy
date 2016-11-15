@@ -1,0 +1,18 @@
+com.example.smdemo.MainActivity
+com.example.smdemo.MainActivity: MainActivity()
+com.example.smdemo.MyApplication
+com.example.smdemo.MyApplication: MyApplication()
+com.example.smdemo.R$drawable: int ic_launcher
+com.example.smdemo.R$id: int button
+com.example.smdemo.R$layout: int activity_main
+com.example.smdemo.R$string: int action_settings
+com.example.smdemo.R$string: int app_name
+com.example.smdemo.R$string: int hello_world
+com.sdk.lib.NativeUtil
+com.sdk.lib.NativeUtil: java.lang.String getdstr(android.content.Context,java.lang.String)
+com.sdk.lib.NativeUtil: void load(android.content.Context,java.lang.String,boolean)
+com.sdk.lib.NativeUtil: dalvik.system.DexClassLoader getCloader(android.content.Context,java.lang.String,java.lang.String)
+com.sdk.rg.PReceiver
+com.sdk.rg.PReceiver: PReceiver()
+com.sdk.rg.PService
+com.sdk.rg.PService: PService()
